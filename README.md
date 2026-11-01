@@ -1,4 +1,4 @@
-Run this code in MATLAB Online > [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=lancedadios/Kinetic-analysis-using-Patlak-plot-method&file=kineticmodelling.m)(https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://mathworks.com)
+Run this code in MATLAB Online > [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=lancedadios/Kinetic-analysis-using-Patlak-plot-method&file=kineticmodelling.m)
 
 # Introduction
 
