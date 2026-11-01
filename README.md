@@ -1,1 +1,0 @@
-# Kinetic-analysis-using-Patlak-plot-method
