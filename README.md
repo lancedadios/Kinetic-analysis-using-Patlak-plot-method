@@ -1,3 +1,5 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://mathworks.com)
+
 # Introduction
 
 In this project, the Healthy Dynamic PET (hedyPET) dataset containing \[F\-18\]FDG dynamic PET/CT of 100 healthy humans was used (Hinge et al., 2026). The provided time\-activity curves (TAC) as well as image\-derived input functions (IDIF) in this dataset were used to calculate the net\-influx rate (Ki) for the brain and spleen. MATLAB was used for all data processing and analysis.
