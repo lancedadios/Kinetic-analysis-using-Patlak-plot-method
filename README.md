@@ -9,7 +9,7 @@ Dataset source: https://doi.org/10.1038/s41597\-026\-08157\-4
 
 # Data loading
 
-Load the provided TAC. Due to the large file size of the provided dataset, the necessary data have been pre\-extracted for this project.
+Load the provided TAC, IDIF, and Patlak Ki values. Due to the large file size of the provided dataset, the necessary data have been pre\-extracted for this project.
 
 ```matlab
 clearvars
