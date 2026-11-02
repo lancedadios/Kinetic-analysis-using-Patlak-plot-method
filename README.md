@@ -1,5 +1,4 @@
-To run this code in MATLAB online, download the accompanying .mat files and place them in the working directory. Then click this button: 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=lancedadios/Kinetic-analysis-using-Patlak-plot-method&file=README.md)
+To run this code in MATLAB online, click this button: 
 
 # Introduction
 
