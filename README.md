@@ -45,7 +45,7 @@ title("Spleen Activity Concentration vs. Time");
 
 # IDIF data
 
-In the dataset, the Ki for a single organ was calculated using different IDIFs. In this project, the IDIF with  measured on the ascending Aorta with a 5\-mm diameter cylinder and 3 mL volume (identifier: aortavois\_ml\-full\_width\-3\_ascending\_aorta) was used.
+In the dataset, the Ki for a single organ was calculated using different IDIFs. In this project, the IDIF measured on the ascending Aorta with a 5\-mm diameter cylinder and 3 mL volume (identifier: aortavois\_ml\-full\_width\-3\_ascending\_aorta) was used.
 
 ```matlab
 aortaAct = sub000IDIFdata.("PET Mean [Bq/mL]");
