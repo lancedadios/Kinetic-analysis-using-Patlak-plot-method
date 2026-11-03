@@ -60,7 +60,7 @@ title("Aorta Activity Concentration vs. Time");
 
 The Patlak plot equation is
 
- $$ \frac{C\left(t\right)}{\mathrm{IDIF}\left(t\right)}=K_i \frac{\;\mathrm{IDIFTIAC}\left(t\right)}{\;\mathrm{IDIF}\left(t\right)}+V_B $$ 
+ $$ \frac{C\left(t\right)}{\mathrm{IDIF}\left(t\right)}=K_i \frac{\mathrm{IDIFTIAC}\left(t\right)}{\mathrm{IDIF}\left(t\right)}+V_B $$ 
 
 Where C(t) is the tracer concentration in tissue and IDIF(t) is the tracer concentration in blood.
 
