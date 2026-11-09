@@ -60,7 +60,7 @@ title("Aorta Activity Concentration vs. Time");
 
 The Patlak plot equation is
 
- $$ \frac{C_t \left(t\right)}{C_p \left(t\right)}=K_i \frac{\;\int_0^t C_p \left(t\right)\mathrm{dt}}{\;C_p \left(t\right)}+V_B $$ 
+ $$ \frac{C_t \left(t\right)}{C_p \left(t\right)}=K_i \frac{\\int_0^t C_p \left(t\right)\mathrm{dt}}{\C_p \left(t\right)}+V_B $$ 
 
 Where Ct(t) is the tracer concentration in tissue and Cp(t) is the tracer concentration in blood.
 
